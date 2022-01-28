@@ -11,7 +11,7 @@ Images used as input for the algorithm in the paper can be downloaded from the <
 The Python code can be found in the <a href="https://github.com/MDNich/CME-Image-Edge-Detection-in-Python-from-STEREO-data/src"><code>src</code></a> directory of this repository.
 Inside the <a href="https://github.com/MDNich/CME-Image-Edge-Detection-in-Python-from-STEREO-data/src"><code>src</code></a> directory, there is a subdirectory, <a href="https://github.com/MDNich/CME-Image-Edge-Detection-in-Python-from-STEREO-data/src/inputData"><code>inputData</code></a>, which has sample data for an example script that uses the provided class.
 
-This code is provided under the **MIT License**, which can be found in the <a href="https://github.com/MDNich/CME-Image-Edge-Detection-in-Python-from-STEREO-data/LICENSE"><code>LICENSE</code></a> file in this repository. In short, please attribute the author when using this code, and this code comes with no warranty whatsoever.
+This code is provided under the **MIT License**, which can be found in the <a href="https://github.com/MDNich/CME-Image-Edge-Detection-in-Python-from-STEREO-data/blob/main/LICENSE"><code>LICENSE</code></a> file in this repository. In short, please attribute the author when using this code, and this code comes with no warranty whatsoever.
 
 ### Installation and Usage of Code
 
