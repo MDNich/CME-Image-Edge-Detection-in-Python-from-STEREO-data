@@ -15,7 +15,7 @@ This code is provided under the **MIT License**, which can be found in the <a hr
 
 ### Installation and Usage of Code
 
-The Python program has a principal Python class file, called <a href="https://github.com/MDNich/CME-Image-Edge-Detection-in-Python-from-STEREO-data/tree/main/src/CMEcounterHIImage.py">CMEcounterHIImage.py</a>. 
+The Python program has a principal Python class file, called <a href="https://github.com/MDNich/CME-Image-Edge-Detection-in-Python-from-STEREO-data/blob/main/src/CMEContourHIimage.py">CMEcounterHIImage.py</a>. 
 There is a usage example Python script located in the same folder, <a href="https://github.com/MDNich/CME-Image-Edge-Detection-in-Python-from-STEREO-data/tree/main/src"><code>src</code></a>.
 In order to use the Python class, you must have the following dependencies installed on your computer:
 <ul>
