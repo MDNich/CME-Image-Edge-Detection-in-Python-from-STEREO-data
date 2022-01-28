@@ -29,5 +29,4 @@ In order to use the Python class, you must have the following dependencies insta
    </ul>
 </ul>
 
-
-
+© 2022 Marc D. Nichitiu
