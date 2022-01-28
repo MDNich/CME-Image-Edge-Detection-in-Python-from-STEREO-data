@@ -22,10 +22,10 @@ In order to use the Python class, you must have the following dependencies insta
   <li>OS: macOS, Linux, Windows</li>
  <li>The following Python packages, to be installed for example with <code>pip3</code>:</li>
    <ul>
-    <li>sunpy</li>
-    <li>matplotlib</li>
-    <li>scipy</li>
-    <li>numpy</li>
+    <li><a href="https://sunpy.org">SunPy</a></li>
+    <li><a href="https://matplotlib.org">MatPlotLib</a></li>
+    <li><a href="https://scipy.org">SciPy</a></li>
+    <li><a href="https://numpy.org">NumPy</a></li>
    </ul>
 </ul>
 
