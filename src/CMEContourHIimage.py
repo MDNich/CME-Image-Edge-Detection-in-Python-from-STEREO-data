@@ -168,6 +168,11 @@ class CMEContourHIimage():
                 ax.add_artist(patches.Rectangle(self._brCen,9,9,color='green',zorder=104))
 
                 plt.show()
+                ax=plt.subplot(projection=self._diffImageMap)
+                im=self._diffImageMap.plot()
+                ax.add_artist(patches.Polygon(self._outEdge,color='black',fill=False,zorder=104))
+                plt.show()
+                
 
         # = = = = =
 
